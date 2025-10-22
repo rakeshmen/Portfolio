@@ -1,4 +1,6 @@
-Hello. I am Rakesh Men. And this repository serves as the **central hub** for all my BI and Data Analytics projects. 
+[![Portfolio Banner](https://github.com/rakeshmen/Portfolio/blob/main/Images/Banner/GitHub%20Banner.jpg?raw=true)](https://www.linkedin.com/in/rakeshmen/)
+
+**Hello. I am Rakesh Men. And this repository serves as the **central hub** for all my BI and Data Analytics projects.**
 
 `SQL` `Power BI` `ETL` `Data Analytics` `Azure Data Factory` `Data Visualization` `Power Query` `Python` `Numpy` `Pandas` <br> `Data Manipulation` `Data Transformation` `Descriptive Analytics` 
 
