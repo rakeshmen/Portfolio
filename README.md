@@ -1,6 +1,7 @@
-**Hello. I am Rakesh Men. And this repository serves as the central hub for all my BI and Data Analytics projects.**  
+Hello. I am Rakesh Men. And this repository serves as the **central hub** for all my BI and Data Analytics projects. 
 
-**`SQL`** **`Power BI`** **`ETL`** **`Data Analystics`** **`Azure Data Factory`** **`Data Visualization`** **`Power Query`** **`Python`** **`Numpy`** **`Pandas`** <br> **`Data Manipuation`** **`Data Transformation`**
+`SQL` `Power BI` `ETL` `Data Analytics` `Azure Data Factory` `Data Visualization` `Power Query` `Python` `Numpy` `Pandas` <br> `Data Manipulation` `Data Transformation` `Descriptive Analytics` 
+
 ## Core SQL Projects
 Explore all my detailed SQL projects [here](https://github.com/rakeshmen/SQL-Projects)
 
