@@ -4,10 +4,7 @@
 
 `SQL` `Power BI` `ETL` `Data Analytics` `Azure Data Factory` `Data Visualization` `Power Query` `Python` `Numpy` `Pandas` <br> `Data Manipulation` `Data Transformation` `Descriptive Analytics` 
 
-## Core SQL Projects
-Explore all my detailed SQL projects [here](https://github.com/rakeshmen/SQL-Projects)
-
-Project 1: [IoT Network Device Monitoring & Usage](https://github.com/rakeshmen/IoT-Network-Device-Monitoring-Usage) <br>
-
-
+## Projects
+#### Project 1: [IoT Network Device Monitoring & Usage](https://github.com/rakeshmen/IoT-Network-Device-Monitoring-Usage) <br>
+##### SQL & Power BI project for IoT Network Device Monitoring & Usage, demonstrating database design, data analysis queries, DAX measures, and interactive dashboards for actionable business insights.
 
