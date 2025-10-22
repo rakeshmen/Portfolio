@@ -1,9 +1,11 @@
-Hello. I am Rakesh Men. And this repository serves as the **central hub** for all my BI and Data Analytics projects.  
-
+> **Hello. I am Rakesh Men. And this repository serves as the central hub for all my BI and Data Analytics projects.**  
+**`SQL`** **`Power BI`** **`ETL`** **`Data Analystics`** **`Azure Data Factory`** **`Data Visualization`** **`Power Query`** **`Python`** **`Numpy`** **`Pandas`** <br> **`Data Manipuation`** **`Data Transformation`**
 ## Core SQL Projects
+Explore all my detailed SQL projects [here](https://github.com/rakeshmen/SQL-Projects)
 
-[IoT Network Device Monitoring & Usage](https://github.com/rakeshmen/IoT-Network-Device-Monitoring-Usage) <br>
-• Monitored 50,000+ IoT device signals for uptime, latency, and packet loss. <br>
-• Generated alerts for the top 10% failing devices, enabling predictive maintenance, improving network uptime by 15%. 
+Project 1: [IoT Network Device Monitoring & Usage](https://github.com/rakeshmen/IoT-Network-Device-Monitoring-Usage) <br>
+
+
+
 
 
